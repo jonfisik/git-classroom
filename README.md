@@ -10,7 +10,7 @@ Aqui você encontrará registros pessoais de aprendizado nas seguintes áreas:
 
 ---
 
-## 🗂 Estrutura do Repositório
+## 🗂 Estrutura do Repositório - Exemplo
 
 ```
 📁 programacao/
