@@ -9,7 +9,7 @@
 
 ## 📚 Curso: NR 10 básico (módulo II) - Introdução a segurança com eletricidade
 - 📌 [Link da Playlist](https://www.youtube.com/playlist?list=PLVEIkvvXCdnFLOs0itzEwgHj2I4WHenTr) - TESSEG SOLUÇÃO
-- ✅ Finalizado: Em andamento, vídeo 1
+- ✅ Finalizado: Em andamento, vídeo 3
 - 📝 Observações:
     - Aprendi conceitos sobre `leis`, `normas`, medidas de `segurança em sistemas elétricos` etc.
     - Eletricidade básica.
