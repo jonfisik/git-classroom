@@ -11,7 +11,7 @@
 - 📌 [Link da Playlist](https://www.youtube.com/playlist?list=PLVEIkvvXCdnFLOs0itzEwgHj2I4WHenTr) - TESSEG SOLUÇÃO
 - ✅ Finalizado: Em andamento, vídeo 1
 - 📝 Observações:
-    - Aprendi os principais conceitos físicos da eletricidade, `corrente`, `tensão`, `potência`, `sistemas trifásicos` etc.
+    - Aprendi conceitos sobre `leis`, `normas`, medidas de `segurança em sistemas elétricos` etc.
     - Eletricidade básica.
     
 ## 📚 Curso: NR 10 básico (módulo I) - Introdução a segurança com eletricidade
