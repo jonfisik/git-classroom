@@ -9,6 +9,7 @@
     
 ## 📚 Curso: HTML, CSS e JS
 - 📌 [HTML](https://www.youtube.com/watch?v=Fhy-5CtVkiM&list=PLhkO7OMKgT_rwCMqErLDnhcxVWy8t0e74&index=8&t=4866s)
+- 📌 [CSS](https://www.youtube.com/watch?v=AB35iSr1YyA&list=PLhkO7OMKgT_rwCMqErLDnhcxVWy8t0e74&index=10)
 - ✅ Finalizado: Em andamento
 - 📝 Observações:
   - HTML (linguagem de marcação de hipertexto): Linguagem que determina a posição de cada elemento em uma página web.
