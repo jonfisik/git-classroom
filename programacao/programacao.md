@@ -1,6 +1,6 @@
 # 🎓 Anotações de Playlists do YouTube - Programação
 
-## 📚 Curso: ????????????
+## 📚 Curso: xxxxxxxxxxx
 - 📌 [Link da Playlist](https://youtube.com/playlist?list=OUTRO_EXEMPLO)
 - ✅ Finalizado: Em andamento
 - 📝 Observações:
