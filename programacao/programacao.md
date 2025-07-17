@@ -11,7 +11,7 @@
 - 📌 [HTML](https://www.youtube.com/watch?v=Fhy-5CtVkiM&list=PLhkO7OMKgT_rwCMqErLDnhcxVWy8t0e74&index=8&t=4866s)
 - ✅ Finalizado: Em andamento
 - 📝 Observações:
-  - HTML (linguagem de marcação de hipertexto): Linguagem que determina a posição de cada elemento dentro de uma página web.
+  - HTML (linguagem de marcação de hipertexto): Linguagem que determina a posição de cada elemento em uma página web.
   - CSS (folhas de estilo me cascata): Estiliza, decora a página web. Define o layout da página.
   - JS (javascript): Linguagem de alto nível, utilizada para adicionar interatividade em páginas web.
 
