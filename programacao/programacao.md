@@ -1,11 +1,19 @@
 # 🎓 Anotações de Playlists do YouTube - Programação
 
-## 📚 Curso: Python para Data Science
+## 📚 Curso: ????????????
 - 📌 [Link da Playlist](https://youtube.com/playlist?list=OUTRO_EXEMPLO)
 - ✅ Finalizado: Em andamento
 - 📝 Observações:
-  - Bibliotecas: pandas, numpy, matplotlib.
-  - Projeto final com análise de dados reais.
+  - Comentários
+  - Comentários
+    
+## 📚 Curso: HTML, CSS e JS
+- 📌 [HTML](https://www.youtube.com/watch?v=Fhy-5CtVkiM&list=PLhkO7OMKgT_rwCMqErLDnhcxVWy8t0e74&index=8&t=4866s)
+- ✅ Finalizado: Em andamento
+- 📝 Observações:
+  - HTMLL: xxxxxxxxx  xxxxxxx.
+  - CSS: xxxxxx xxxxxx xxxx.
+  - JS: xxxxxx xxxxxx xxxx.
 
 ## 📚 Curso: Git e GitHub - Curso prático
 - 📌 [Link da Playlist](https://www.youtube.com/playlist?list=PLbEOwbQR9lqzK14I7OOeREEIE4k6rjgIj)
