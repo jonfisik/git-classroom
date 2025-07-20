@@ -24,5 +24,6 @@
 - 📝 Observações:
   - Aprendi a usar comandos básicos como `git init`, `git add`, etc.
   - Importância do versionamento de código.
+  - Pasta: [GIT GITHUB](https://github.com/jonfisik/cmd-git) :heavy_check_mark:
 
 ---
