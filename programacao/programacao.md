@@ -16,7 +16,7 @@
   - HTML (linguagem de marcação de hipertexto): Linguagem que determina a posição de cada elemento em uma página web.
   - CSS (folhas de estilo me cascata): Estiliza, decora a página web. Define o layout da página.
   - JS (javascript): Linguagem de alto nível, utilizada para adicionar interatividade em páginas web.
-  - Pasta: html_css_js :clock3:
+  - Pasta: [html_css_js](https://github.com/jonfisik/git-classroom/tree/main/programacao/html_css_js) :clock3:
 
 ## 📚 Curso: Git e GitHub - Curso prático
 - 📌 [Link da Playlist](https://www.youtube.com/playlist?list=PLbEOwbQR9lqzK14I7OOeREEIE4k6rjgIj) :heavy_check_mark:
