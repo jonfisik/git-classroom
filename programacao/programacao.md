@@ -11,7 +11,7 @@
 - 📌 [HTML](https://www.youtube.com/watch?v=Fhy-5CtVkiM&list=PLhkO7OMKgT_rwCMqErLDnhcxVWy8t0e74&index=8&t=4866s) :heavy_check_mark:
 - 📌 [CSS](https://www.youtube.com/watch?v=AB35iSr1YyA&list=PLhkO7OMKgT_rwCMqErLDnhcxVWy8t0e74&index=10) :heavy_check_mark:
 - 📌 [JS](https://www.youtube.com/playlist?list=PLhkO7OMKgT_rRK3qvJsZAy3jrkupOxD_h) :clock3:
-- ✅ Finalizado: Em andamento, vídeo 4.
+- ✅ Finalizado: Em andamento, vídeo 4 JS.
 - 📝 Observações:
   - HTML (linguagem de marcação de hipertexto): Linguagem que determina a posição de cada elemento em uma página web.
   - CSS (folhas de estilo me cascata): Estiliza, decora a página web. Define o layout da página.
