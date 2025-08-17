@@ -7,6 +7,12 @@
   - Comentários
   - Comentários :clock3:
 
+## 📚 Curso: How to Make Portfolio Website Using HTML CSS and JavaScript
+- 📌 [Link do Vídeo](https://www.youtube.com/watch?v=jVD9ZmWxhX8&t=2813s) :heavy_check_mark:
+- ✅ Finalizado: 15/08/2025
+- 📝 Observações:
+  - Criação de portfólio com as tecnologias HTML, CSS e JS.
+    
 ## 📚 Curso: Como fazer uma animação com HOVER usando apenas HTML e CSS
 - 📌 [Link da Vídeo](https://www.youtube.com/watch?v=J5r_1vB3MWg&t=119s) :heavy_check_mark:
 - ✅ Finalizado: 02/08/2025
