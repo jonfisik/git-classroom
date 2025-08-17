@@ -14,7 +14,7 @@
   - Criação de portfólio com as tecnologias HTML, CSS e JS.
     
 ## 📚 Curso: Como fazer uma animação com HOVER usando apenas HTML e CSS
-- 📌 [Link da Vídeo](https://www.youtube.com/watch?v=J5r_1vB3MWg&t=119s) :heavy_check_mark:
+- 📌 [Link do Vídeo](https://www.youtube.com/watch?v=J5r_1vB3MWg&t=119s) :heavy_check_mark:
 - ✅ Finalizado: 02/08/2025
 - 📝 Observações:
   - Animação com hover para cards, usando apenas CSS. A animação de hover é uma forma de adicionar interatividade e dar vida ao design do seu website.
