@@ -1,7 +1,7 @@
 # 🎓 Anotações de Playlists do YouTube - Programação
 
-## 📚 Curso: xxxxxxxxxxx
-- 📌 [Link da Playlist](https://youtube.com/playlist?list=OUTRO_EXEMPLO)
+## 📚 Curso: Curso de HTML Completo
+- 📌 [HTML](https://www.youtube.com/playlist?list=PL2Fdisxwzt_cajoGVWTx44wM6Ht09QJ3A)
 - ✅ Finalizado: Em andamento
 - 📝 Observações:
   - Comentários
