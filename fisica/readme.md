@@ -1,8 +1,9 @@
 # 🎓 Anotações de Playlists do YouTube - Engenharia Elétrica
 
 ## 📚 Curso: ?????????
-- 📌 [Link da Playlist](https://youtube.com/playlist?list=OUTRO_EXEMPLO) - CANAL
+- 📌 [Tensors for Beginners](https://www.youtube.com/playlist?list=PLJHszsWbB6hrkmmq57lX8BV-o-YIOFsiG)
 - ✅ Finalizado: Em andamento
 - 📝 Observações:
-  - Bibliotecas: pandas, numpy, matplotlib.
-  - Projeto final com análise de dados reais.
+  - Tensore - ... .
+  - ....
+---
