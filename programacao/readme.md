@@ -2,7 +2,7 @@
 
 ## 📚 Curso: Curso de HTML Completo
 - 📌 [HTML](https://www.youtube.com/playlist?list=PL2Fdisxwzt_cajoGVWTx44wM6Ht09QJ3A)
-- ✅ Finalizado: Em andamento
+- ✅ Finalizado: Em andamento - Aula 03
 - 📝 Observações:
   - Comentários
   - Comentários :clock3:
