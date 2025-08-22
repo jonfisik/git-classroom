@@ -1,7 +1,5 @@
 # 🎓 Anotações de Playlists do YouTube - Física
 
-https://www.youtube.com/playlist?list=PLV2ClAMG4tOiMNZFvRjuYuzf8-3Eye1F7
-
 ## 📚 Curso: Noções de Cálculo Diferencial e Integral
 - 📌 [Noções de Cálculo](https://www.youtube.com/playlist?list=PLV2ClAMG4tOiMNZFvRjuYuzf8-3Eye1F7)
 - ✅ Finalizado: Em andamento
