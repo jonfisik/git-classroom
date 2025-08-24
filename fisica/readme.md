@@ -1,11 +1,13 @@
 # 🎓 Anotações de Playlists do YouTube - Física
 
+<!-- Perguntas para o resumo - Qual foi a ideia central? Qual exemplo foi usado? Qual a conclusão mais importante? -->
+
 ## 📚 Curso: Noções de Cálculo Diferencial e Integral
 - 📌 [Noções de Cálculo](https://www.youtube.com/playlist?list=PLV2ClAMG4tOiMNZFvRjuYuzf8-3Eye1F7)
 - ✅ Finalizado: Em andamento vídeo 6 :clock3:
-- 📝 Observações: - Qual foi a ideia central? Qual exemplo foi usado? Qual a conclusão mais importante? -
-  - Derivada - ... .
-  - Integral - ...
+- 📝 Observações:
+  - Derivada - ... 
+  - Integral - ... 
     
 ## 📚 Curso: Tensors for Beginners
 - 📌 [Tensors for Beginners](https://www.youtube.com/playlist?list=PLJHszsWbB6hrkmmq57lX8BV-o-YIOFsiG)
