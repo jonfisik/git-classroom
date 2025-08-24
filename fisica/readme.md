@@ -4,7 +4,7 @@
 
 ## 📚 Curso: Noções de Cálculo Diferencial e Integral
 - 📌 [Noções de Cálculo](https://www.youtube.com/playlist?list=PLV2ClAMG4tOiMNZFvRjuYuzf8-3Eye1F7)
-- ✅ Finalizado: Em andamento vídeo 6 :clock3:
+- ✅ Finalizado: Em andamento vídeo 8 :clock3:
 - 📝 Observações:
   - Derivada - ... 
   - Integral - ... 
