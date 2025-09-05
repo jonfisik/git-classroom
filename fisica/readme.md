@@ -2,12 +2,12 @@
 
 <!-- Perguntas para o resumo - Qual foi a ideia central? Qual exemplo foi usado? Qual a conclusão mais importante? -->
 
-## 📚 Curso: Noções de Cálculo Diferencial e Integral
-- 📌 [Noções de Cálculo](https://www.youtube.com/playlist?list=PLV2ClAMG4tOiMNZFvRjuYuzf8-3Eye1F7)
-- ✅ Finalizado: Em andamento vídeo 8 :clock3:
+## 📚 Curso: Einstein's General Theory of Relativity
+- 📌 [TGR](https://www.youtube.com/playlist?list=PL6C8BDEEBA6BDC78D)
+- ✅ Finalizado: Em andamento vídeo 2 :clock3:
 - 📝 Observações:
-  - Derivada - ... 
-  - Integral - ...
+  - Relatividade Geral - ... 
+  - xxxxx - ...
 
 ## 📚 Curso: Noções de Cálculo Diferencial e Integral
 - 📌 [Noções de Cálculo](https://www.youtube.com/playlist?list=PLV2ClAMG4tOiMNZFvRjuYuzf8-3Eye1F7)
