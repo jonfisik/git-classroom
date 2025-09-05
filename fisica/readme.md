@@ -4,7 +4,7 @@
 
 ## 📚 Curso: Minicurso de Cálculo Vetorial
 - 📌 [Cálculo Vetorial](https://www.youtube.com/playlist?list=PLV2ClAMG4tOhK2ubo8riZLuiwxinMLBGP)
-- ✅ Finalizado: Em andamento vídeo 2 :clock3:
+- ✅ Finalizado: Em andamento vídeo 11 :clock3:
 - 📝 Observações:
   - Vetores - ... 
   - xxxxx - ...
