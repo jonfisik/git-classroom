@@ -1,11 +1,11 @@
 # 🎓 Anotações de Playlists do YouTube - Engenharia Elétrica
 
-## 📚 Curso: ?????????
-- 📌 [Link da Playlist](https://youtube.com/playlist?list=OUTRO_EXEMPLO) - CANAL
+## 📚 Curso: Projetos de instalações elétricas baseados na NBR 5410
+- 📌 [Projetos Elétricos](https://www.youtube.com/playlist?list=PLFai7UQvyStnHuk64r4I0ZciSu_tbBYKr)
 - ✅ Finalizado: Em andamento
 - 📝 Observações:
-  - Bibliotecas: pandas, numpy, matplotlib.
-  - Projeto final com análise de dados reais.
+  - xxxxx: xxxxx.
+  - xxxxxxxxxxxxxxxxxxxxxx.
 
 ## 📚 Curso: NR 10 básico (módulo II) - Introdução a segurança com eletricidade
 - 📌 [Link da Playlist](https://www.youtube.com/playlist?list=PLVEIkvvXCdnFLOs0itzEwgHj2I4WHenTr) - TESSEG SOLUÇÃO
