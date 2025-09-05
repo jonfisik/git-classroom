@@ -2,6 +2,13 @@
 
 <!-- Perguntas para o resumo - Qual foi a ideia central? Qual exemplo foi usado? Qual a conclusão mais importante? -->
 
+## 📚 Curso: Minicurso de Cálculo Vetorial
+- 📌 [Cálculo Vetorial](https://www.youtube.com/playlist?list=PLV2ClAMG4tOhK2ubo8riZLuiwxinMLBGP)
+- ✅ Finalizado: Em andamento vídeo 2 :clock3:
+- 📝 Observações:
+  - Vetores - ... 
+  - xxxxx - ...
+
 ## 📚 Curso: Einstein's General Theory of Relativity
 - 📌 [TGR](https://www.youtube.com/playlist?list=PL6C8BDEEBA6BDC78D)
 - ✅ Finalizado: Em andamento vídeo 2 :clock3:
