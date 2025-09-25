@@ -1,10 +1,10 @@
 # 🎓 Anotações de Playlists do YouTube - Física
 
-<!-- Perguntas para o resumo - Qual foi a ideia central? Qual exemplo foi usado? Qual a conclusão mais importante? -->
+<!-- Perguntas para o resumo - Qual foi a ideia central? Qual exemplo foi usado? Qual a conclusão mais importante? :clock3: -->
 
 ## 📚 Curso: Minicurso de Cálculo Vetorial
 - 📌 [Cálculo Vetorial](https://www.youtube.com/playlist?list=PLV2ClAMG4tOhK2ubo8riZLuiwxinMLBGP)
-- ✅ Finalizado: Em andamento vídeo 11 :clock3:
+- ✅ Finalizado: 25/09/2025 
 - 📝 Observações:
   - Vetores - ... 
   - xxxxx - ...
