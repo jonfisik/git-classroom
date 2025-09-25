@@ -11,7 +11,7 @@
 
 ## 📚 Curso: Einstein's General Theory of Relativity
 - 📌 [TGR](https://www.youtube.com/playlist?list=PL6C8BDEEBA6BDC78D)
-- ✅ Finalizado: Em andamento vídeo 2 :clock3:
+- ✅ Finalizado: Em andamento vídeo 7 :clock3:
 - 📝 Observações:
   - Relatividade Geral - ... 
   - xxxxx - ...
