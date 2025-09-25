@@ -18,7 +18,7 @@
 
 ## 📚 Curso: Noções de Cálculo Diferencial e Integral
 - 📌 [Noções de Cálculo](https://www.youtube.com/playlist?list=PLV2ClAMG4tOiMNZFvRjuYuzf8-3Eye1F7)
-- ✅ Finalizado: 26/08/2025
+- ✅ Finalizado: 26/08/2025 :heavy_check_mark:
 - 📝 Observações:
   - Derivada - ... 
   - Integral - ...
